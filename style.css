@@ -15,3 +15,7 @@ video {
   background: url(assets/images/parallax.jpg) no-repeat bottom / cover fixed;
   min-height: 250px;
 }
+
+.contact-section #floatTxtArea {
+  height: 100px;
+}
