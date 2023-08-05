@@ -10,3 +10,8 @@ video {
 .pricing-section-card {
   min-height: 400px;
 }
+
+.parallax-section {
+  background: url(assets/images/parallax.jpg) no-repeat bottom / cover fixed;
+  min-height: 250px;
+}
