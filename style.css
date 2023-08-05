@@ -7,4 +7,6 @@ video {
   object-fit: cover;
 }
 
-
+.pricing-section-card {
+  min-height: 400px;
+}
